@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaShriwas18/AdityaShriwas18/blob/main/Black%20Minimalist%20LinkedIn%20Banner.png)
+![logo](https://github.com/AdityaShriwas18/AdityaShriwas18/blob/main/Black%and%White%Gradient%Personal%LinkedIn%Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Shriwas</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
