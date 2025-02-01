@@ -1,6 +1,6 @@
 ![logo](https://github.com/AdityaShriwas18/AdityaShriwas18/blob/main/Black%20Minimalist%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Shriwas</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityashriwas&label=Profile%20views&color=0e75b6&style=flat" alt="adityashriwas" /> </p>
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me **adityashriwas09@gmail.com**
 <h3 align="left">About me:</h3>
 
-<p align="left">👋 Hi there! I'm Aditya Shriwas, a passionate tech enthusiast and aspiring software engineer. Currently pursuing my studies in B Tech Computer Science. My programming journey began in 2021, and since then, I’ve been on an exciting learning path, honing my skills in web technologies. I'm also skilled in C++ and Java programming. Currently, I am focused on frontend technologies, but I am eager to expand my expertise and eventually transition into a full-fledged software engineer role. Feel free to reach out to me for collaborations or tech discussions! 😊🚀 </p>
+<p align="left">👋 Hi there! I'm Aditya Shriwas, a passionate tech enthusiast and aspiring software engineer. Currently pursuing my studies in B Tech Computer Science. My programming journey began in 2021, and since then, I’ve been on an exciting learning path, honing my skills in web technologies. I'm also skilled in C++ and Java programming. Currently, I am focused on Full Stack Development, but I am eager to expand my expertise and eventually transition into a full-fledged software engineer role. Feel free to reach out to me for collaborations or tech discussions! 😊🚀 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
